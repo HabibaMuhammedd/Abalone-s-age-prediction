@@ -55,21 +55,7 @@ The model was evaluated using:
 - Root Mean Squared Error (RMSE)
 - R² Score
 
-### Results
 
-- MAE: 1.5931
-- MSE: 4.8912
-- RMSE: 2.2116
-- R² Score: 0.5482
-
-## Technologies Used
-
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Scikit-learn
 
 ## Project Structure
 
